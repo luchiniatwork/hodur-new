@@ -1,5 +1,5 @@
 {:paths ["src" "resources" "target"]
- :deps {com.bhauman/figwheel-main {:mvn/version "0.2.12"}
-        hodur/engine            {:mvn/version "0.1.8"}
+ :deps {#_com.bhauman/figwheel-main #_{:mvn/version "0.2.12"}
+        #_hodur/engine            #_{:mvn/version "0.1.8"}
         hodur/visualizer-schema {:mvn/version "0.1.1"}}}
-        ;persistent-sorted-set/persistent-sorted-set {:mvn/version "0.1.2"}}}
+                                        ;persistent-sorted-set/persistent-sorted-set {:mvn/version "0.1.2"}}}
